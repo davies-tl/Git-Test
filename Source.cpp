@@ -12,6 +12,7 @@ int main()
 	cout << "Creating an amend to the forth commit for branch practice.\n";
 	cout << endl;
 	cout << endl;
+	cout << "Going back to the master branch; practicing branches.\n";
 
 	return 0;
 }
