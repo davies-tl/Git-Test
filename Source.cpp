@@ -8,6 +8,10 @@ int main()
 	cout << "Using git in Visual Studio.\n";
 	cout << endl;
 	cout << endl;
+	cout << "Making changes for git practice.\n";
+	cout << "Creating an amend to the forth commit for branch practice.\n";
+	cout << endl;
+	cout << endl;
 
 	return 0;
 }
