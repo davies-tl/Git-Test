@@ -13,6 +13,8 @@ int main()
 	cout << endl;
 	cout << endl;
 	cout << "Going back to the master branch; practicing branches.\n";
+	cout << "New feature branch 3 changes\n";
+	cout << endl;
 
 	return 0;
 }
